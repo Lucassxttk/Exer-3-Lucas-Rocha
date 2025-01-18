@@ -1,0 +1,8 @@
+.header{
+    background-image: url(https://www.webshare.com.br/wp-content/uploads/2023/02/Oque-e-login.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    width: center 100%;
+    display: flex;
+    color: aliceblue;
+}
